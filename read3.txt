@@ -1,2 +1,3 @@
 git is good 
-I like it !
+i like it !
+print("***hello world****")
